@@ -1,5 +1,7 @@
 # Awesome M5Stack Cardputer
 
+<img src="m5stack cardputer.jpg" alt="m5stack cardputer" width="400">
+
 M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a credit-card size, weighing 92.8g.  
 [Official website](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3)  |  [Docs](https://docs.m5stack.com/en/core/Cardputer)
 ## Specs
@@ -29,6 +31,8 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - Infrared ∠0° : 410cm, < 90° : 66cm, < 45° : 170cm
 - Digital MEMS Microphone
 - Sound: I2S-Speaker, 8Ω@1W
+- 2 magnets on the back to stick it somewhere metallic
+- It comes with a little hexagonal screwdriver to open it
 
 **Note: no builtin NFC or RFID**  
 
