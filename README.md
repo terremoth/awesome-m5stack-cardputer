@@ -30,4 +30,14 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - Digital MEMS Microphone
 - Sound: I2S-Speaker, 8Ω@1W
 
-**Note: no builtin NFC or RFID**
+**Note: no builtin NFC or RFID**  
+
+### Pre-installed apps
+- Wi-Fi Scanner
+- Audio recorder
+- ESP Chat - to communicate with other cardputers or similars
+- IR remote data send manually
+- Python REPL
+- Set WiFi
+- Timer
+- Keyboard (USB or Bluetooth) connector
