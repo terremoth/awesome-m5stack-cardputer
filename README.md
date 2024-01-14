@@ -41,7 +41,18 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - Audio recorder
 - ESP Chat - to communicate with other cardputers or similars
 - IR remote data send manually
-- Python REPL
+- Pika Python REPL
 - Set WiFi
 - Timer
 - Keyboard (USB or Bluetooth) connector
+  
+These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserDemo
+
+---------------
+
+### Community Apps
+- [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
+- [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
+- [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio)
+- [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
+- [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
