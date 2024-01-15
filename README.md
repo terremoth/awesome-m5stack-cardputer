@@ -5,7 +5,7 @@
 M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a credit-card size, weighing 92.8g.  
 [Official website](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3)  |  [Docs](https://docs.m5stack.com/en/core/Cardputer)  
 
-Cardputer Discord Community: https://www.reddit.com/r/CardPuter
+Cardputer Reddit Community: https://www.reddit.com/r/CardPuter
 
 ## Specs
 
