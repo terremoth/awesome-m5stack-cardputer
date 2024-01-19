@@ -59,3 +59,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio)
 - [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
 - [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
+- Gameboy Emulator [Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu)
+- [HID Bluetooth Keyboard](https://github.com/Gitshaoxiang/M5Cardputer-BLE-HID-Keyboard)
+- SSH Client [By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient)
+- [Telnet Client](https://github.com/aat440hz/TelnetClient-M5Cardputer)
+- [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat)
