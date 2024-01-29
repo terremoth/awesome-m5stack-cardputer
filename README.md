@@ -16,12 +16,12 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - ULTRA LOW Deep Sleep Current
 
 ### Memory
-- RAM: 8MB Quad SPI PSRAM
 - 128-bit data bus and SIMD commands
 - 384 KB ROM - for booting and core functions
 - 512 KB SRAM - for data and instructions, running at a configurable frequency of up to 240 MH
 - 16 KB SRAM in RTC - can retain data in Deep-sleep mode
 - 4 Kbit eFuse - reserved for user data, such as encryption key and device ID
+- SPI, Dual SPI, Quad SPI, Octal SPI, QPI and OPI interfaces that allow connection to multiple flash and external RAM
 
 ### Devices/Resources
 - Bluetooth: 5.0, BLE + Mesh
