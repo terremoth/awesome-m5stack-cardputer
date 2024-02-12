@@ -43,7 +43,9 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 
 **Note: no builtin NFC or RFID**
 
-### Pre-installed apps
+---
+
+## Pre-installed apps
 
 - Wi-Fi Scanner
 - Audio recorder
@@ -56,20 +58,24 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 
 These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserDemo
 
----
+## Community Apps
 
-### Community Apps
+### Launchers
+- [MicroHydra Launcher](https://github.com/echo-lalia/Cardputer-MicroHydra)
+- [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
 
-- [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
+### Vulnerability Testing
 - [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
 - [M5 Stick Bruce - Fork of NEMO](https://github.com/pr3y/m5-bruce/)
+- [Cardputer Marauder ESP32](https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support)
+
+### Misc.
+- [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
 - [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio)
 - [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
-- [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
 - [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu)
 - [HID Bluetooth Keyboard](https://github.com/Gitshaoxiang/M5Cardputer-BLE-HID-Keyboard)
 - [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient)
 - [Telnet Client](https://github.com/aat440hz/TelnetClient-M5Cardputer)
 - [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat)
-- [Cardputer Marauder ESP32](https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support)
 - [Volos Cardputer TV Remote](https://github.com/VolosR/M5CardRemote/)
