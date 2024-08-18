@@ -68,6 +68,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
 - [M5 Stick Bruce - Fork of NEMO](https://github.com/pr3y/m5-bruce/)
 - [Cardputer Marauder ESP32](https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support)
+- [Evil-Cardputer](https://github.com/7h30th3r0n3/Evil-M5Core2)
 
 ### Misc.
 - [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
