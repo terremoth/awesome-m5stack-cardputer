@@ -63,22 +63,59 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Launchers
 - [M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
-- [MicroHydra Launcher](https://github.com/echo-lalia/Cardputer-MicroHydra)
+- [NEMO](https://github.com/n0xa/m5stick-nemo)
+- [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra)
+  - [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps)
+  - [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
+  - [HydraMenu app](https://github.com/Gabriel-F-Sousa/HydraMenu)
 - [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
+- [HydraOS](https://github.com/WauHundeland/HydraOS) - Micro OS for Cardputer
+- [BerylliumOS](https://github.com/beryllium-org/OS) - Another Micro OS for Cardputer
+- [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) 
 
-### Vulnerability Testing
+### Cybersecurity Related
 - [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
 - [M5 Stick Bruce - Fork of NEMO](https://github.com/pr3y/Bruce)
 - [Cardputer Marauder ESP32](https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support)
 - [Evil-Cardputer](https://github.com/7h30th3r0n3/Evil-M5Core2)
+- [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project)
+- [Bruce](https://github.com/pr3y/Bruce)
+- [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi)
+- [433Mhz sniffer](https://github.com/bmorcelli/io433)
+
+### Game Related
+- [TinyKnight Game](https://github.com/foopod/tinyKnight)
+- [Classic Snake Game](https://github.com/ostaquet/M5Snake/tree/master/src/M5Snake)
+- [Anarch Game port from ESPBoy](https://github.com/TheBricktop/Anarch-Cardputer)
+- [DOOM port](https://github.com/Logimancer/Cardputer-doom) - Yes, of course we have Doom
+- [Some games experiments](https://github.com/polyphasicdevs/Cardputer-experiments)
+- [Gameboy emulator](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
+- [Conway's Game of Life](https://github.com/Mystereon/CardLife)
+- [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
+- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu)
 
 ### Misc.
 - [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
 - [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio)
-- [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
-- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu)
+- [M5Cardputer WebRadio Dutch version](https://github.com/rolandbreedveld/M5Cardputer_WebRadio_Dutch/)
 - [HID Bluetooth Keyboard](https://github.com/Gitshaoxiang/M5Cardputer-BLE-HID-Keyboard)
 - [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient)
 - [Telnet Client](https://github.com/aat440hz/TelnetClient-M5Cardputer)
 - [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat)
 - [Volos Cardputer TV Remote](https://github.com/VolosR/M5CardRemote/)
+- [Universal remote control](https://github.com/geo-tp/Ultimate-Remote)
+- [MDX (mxdrv) file Player for Cardputer](https://github.com/Layer812/mdxPC)
+- [Interactive SSH client](https://github.com/SUB0PT1MAL/M5Cardputer_Interactive_SSH_Client)
+- [SSH Terminal with M5Cardputer](https://github.com/aat440hz/SSHClient-M5Cardputer)
+- [M5CardForth - Forth Programming Language for Cardputer](https://github.com/ryu10/M5CardForth)
+- [VGM Player for Cardputer](https://github.com/Layer812/vgmPC)
+- [M5Cardputer C64 Emulator](https://github.com/iele/M5Cardputer-C64-Emulator)
+- [Eliza Chatbot](https://github.com/Layer812/cardputer_eliza)
+- [Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server)
+- [Fake Windows XP UI](https://github.com/prashantkamdar/M5StickCPLUS.fakeWinXP)
+- [AI Gadget assistant for Cardputer](https://github.com/jeftheone/M5CardputerAIWiFiConnection)
+- [Lora Chat](https://github.com/nonik0/CardputerLoRaChat)
+- [ESP Console Emulator Server](https://github.com/IncursioHack/ESP-Game-Server)
+- [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer)
+- [Simple StopWatch](https://github.com/qubiX00/stopwatch-cardputer)
+- [Weather App](https://github.com/qubiX00/weather-cardputer)
