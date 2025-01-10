@@ -61,6 +61,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 ## Community Apps
 
 ### Launchers
+- [M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
 - [MicroHydra Launcher](https://github.com/echo-lalia/Cardputer-MicroHydra)
 - [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
 
