@@ -1,5 +1,7 @@
 # Awesome M5Stack Cardputer
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <img src="m5stack cardputer.jpg" alt="m5stack cardputer" width="400">
 
 M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a credit-card size, weighing 92.8g.  
