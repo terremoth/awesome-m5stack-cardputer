@@ -24,7 +24,7 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 
 - 128-bit data bus and SIMD commands
 - 384 KB ROM - for booting and core functions
-- 512 KB SRAM - for data and instructions, running at a configurable frequency of up to 240 MH
+- 512 KB SRAM - for data and instructions, running at a configurable frequency of up to 240 MHz
 - 16 KB SRAM in RTC - can retain data in Deep-sleep mode
 - 4 Kbit eFuse - reserved for user data, such as encryption key and device ID
 - 8 MB Flash
