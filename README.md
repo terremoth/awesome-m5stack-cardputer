@@ -29,9 +29,6 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - 4 Kbit eFuse - reserved for user data, such as encryption key and device ID
 - 8 MB Flash
 - SPI, Dual SPI, Quad SPI, Octal SPI, QPI and OPI interfaces that allow connection to multiple flash and external RAM
-- Operating Current: IR transmission mode: DC-4.2V/148.07mA | Key mode: DC-4.2V/138.93mA
-- Sleep Current: DC-4.2V @ 0.15uA
-- Product Weight: 90g
 
 ### Devices/Resources
 
@@ -49,6 +46,10 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - 2 magnets on the back to stick it somewhere metallic
 - It comes with a little hexagonal screwdriver to open it
 - Dimensions: 85mm x 54mm x 19.7mm
+- Operating Current: IR transmission mode: DC-4.2V/148.07mA | Key mode: DC-4.2V/138.93mA
+- Sleep Current: DC-4.2V @ 0.15uA
+- Product Weight: 90g
+
 
 **Note: no builtin NFC or RFID**
 
