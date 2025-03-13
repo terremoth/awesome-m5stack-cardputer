@@ -27,22 +27,28 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - 512 KB SRAM - for data and instructions, running at a configurable frequency of up to 240 MH
 - 16 KB SRAM in RTC - can retain data in Deep-sleep mode
 - 4 Kbit eFuse - reserved for user data, such as encryption key and device ID
+- 8 MB Flash
 - SPI, Dual SPI, Quad SPI, Octal SPI, QPI and OPI interfaces that allow connection to multiple flash and external RAM
+- Operating Current: IR transmission mode: DC-4.2V/148.07mA | Key mode: DC-4.2V/138.93mA
+- Sleep Current: DC-4.2V @ 0.15uA
+- Product Weight: 90g
 
 ### Devices/Resources
 
 - Bluetooth: 5.0, BLE + Mesh
 - Wi-Fi: 802.11b/g/n 2.4Ghz
-- Display: IPS LCD, 1,14", 240x135px
+- Display: ST7789V2 - IPS LCD, 1,14", 240px x 135px
 - Battery: internal 120mAh + 1400mAh (in the base) lithium battery
-- TF-Card (MicroSD) slot
+- 1 TF-Card (MicroSD) slot
 - 1 USB-C OTG in/out
-- Keyboard: 56 keys, QWERTY type, ortholinear with tactile click switches
-- Infrared ∠0° : 410cm, < 90° : 66cm, < 45° : 170cm
-- Digital MEMS Microphone
-- Sound: I2S-Speaker, 8Ω@1W
+- 1 Grove 1 x HY2.0-4P input/output
+- 4x14 Keyboard: 56 keys, QWERTY type, ortholinear with tactile click switches
+- Infrared G44 ∠0° : 410cm, < 90° : 66cm, < 45° : 170cm
+- Digital MEMS Microphone PDM-MIC SPM1423
+- Sound: I2S-Speaker NS4168 - 8Ω@1W 
 - 2 magnets on the back to stick it somewhere metallic
 - It comes with a little hexagonal screwdriver to open it
+- Dimensions: 85mm x 54mm x 19.7mm
 
 **Note: no builtin NFC or RFID**
 
