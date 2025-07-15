@@ -51,7 +51,7 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - Product Weight: 90g
 
 
-**Note: no builtin NFC or RFID**
+**Note: no builtin NFC, RFID or LoRa module**
 
 ---
 
