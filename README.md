@@ -84,7 +84,6 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 ### Cybersecurity Related
 - [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
 - [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder)
-- [Evil-Cardputer](https://github.com/7h30th3r0n3/Evil-M5Core2)
 - [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project)
 - [Bruce](https://github.com/pr3y/Bruce)
 - [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi)
