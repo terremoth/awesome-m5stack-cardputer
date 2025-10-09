@@ -73,7 +73,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Launchers
 - [M5 Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
-  - [Prebuilt binaries](https://bmorcelli.github.io/Launcher/m5lurner.html)
+  - [100+ prebuilt binaries](https://bmorcelli.github.io/Launcher/m5lurner.html)
 - [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra)
   - [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps)
   - [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
@@ -93,6 +93,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Game Related
 - [TinyKnight Game](https://github.com/foopod/tinyKnight)
+- [Sun Rider Game](https://github.com/Treblewolf/M5Cardputer-Sun-Rider)
 - [Classic Snake Game](https://github.com/ostaquet/M5Snake/tree/master/src/M5Snake)
 - [Anarch Game port from ESPBoy](https://github.com/TheBricktop/Anarch-Cardputer)
 - [DOOM port](https://github.com/Logimancer/Cardputer-doom) - Yes, of course we have Doom
