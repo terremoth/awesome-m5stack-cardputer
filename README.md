@@ -9,6 +9,7 @@ M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a cred
 
 Cardputer Reddit Community: https://www.reddit.com/r/CardPuter  
 An Unofficial Cardputer Discord Server: https://discord.gg/zuzSVDgxvx 
+Unofficial Cardputer Development Reference Manual: https://cardputer.free.nf/
 
 ## Specs
 
@@ -71,7 +72,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 ## Community Apps
 
 ### Launchers
-- [M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+- [M5 Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+  - [Prebuilt binaries](https://bmorcelli.github.io/Launcher/m5lurner.html)
 - [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra)
   - [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps)
   - [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
