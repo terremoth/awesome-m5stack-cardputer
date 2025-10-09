@@ -83,7 +83,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Cybersecurity Related
 - [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
-- [Cardputer Marauder ESP32](https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support)
+- [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder)
 - [Evil-Cardputer](https://github.com/7h30th3r0n3/Evil-M5Core2)
 - [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project)
 - [Bruce](https://github.com/pr3y/Bruce)
@@ -99,7 +99,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Gameboy emulator](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
 - [Conway's Game of Life](https://github.com/Mystereon/CardLife)
 - [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
-- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu)
+- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu) | [By Mr-Paul](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
+- [NES Emulator](https://github.com/geo-tp/Cardputer-Nes-Emulator)
 
 ### Misc.
 - [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
