@@ -8,8 +8,7 @@ M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a cred
 [Official website](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3) | [Docs](https://docs.m5stack.com/en/core/Cardputer)
 
 Cardputer Reddit Community: https://www.reddit.com/r/CardPuter  
-An Unofficial Cardputer Discord Server: https://discord.gg/zuzSVDgxvx 
-
+An Unofficial Cardputer Discord Server: https://discord.gg/zuzSVDgxvx  
 Unofficial Cardputer Development Reference Manual: https://cardputer.free.nf/
 
 ## Specs
