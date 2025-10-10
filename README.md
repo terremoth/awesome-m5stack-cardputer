@@ -121,7 +121,6 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server)
 - [Fake Windows XP UI](https://github.com/prashantkamdar/M5StickCPLUS.fakeWinXP)
 - [AI Gadget assistant for Cardputer](https://github.com/jeftheone/M5CardputerAIWiFiConnection)
-- [Lora Chat](https://github.com/nonik0/CardputerLoRaChat)
 - [ESP Console Emulator Server](https://github.com/IncursioHack/ESP-Game-Server)
 - [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer)
 - [Simple StopWatch](https://github.com/qubiX00/stopwatch-cardputer)
