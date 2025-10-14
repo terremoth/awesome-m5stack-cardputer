@@ -8,7 +8,8 @@ M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a cred
 [Official website](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3) | [Docs](https://docs.m5stack.com/en/core/Cardputer)
 
 Cardputer Reddit Community: https://www.reddit.com/r/CardPuter  
-An Unofficial Cardputer Discord Server: https://discord.gg/zuzSVDgxvx 
+An Unofficial Cardputer Discord Server: https://discord.gg/zuzSVDgxvx  
+Unofficial Cardputer Development Reference Manual: https://cardputer.free.nf/
 
 ## Specs
 
@@ -71,7 +72,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 ## Community Apps
 
 ### Launchers
-- [M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+- [M5 Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+  - [100+ prebuilt binaries](https://bmorcelli.github.io/Launcher/m5lurner.html)
 - [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra)
   - [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps)
   - [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
@@ -83,8 +85,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Cybersecurity Related
 - [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) - Hacking tools for cardputer
-- [Cardputer Marauder ESP32](https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support)
-- [Evil-Cardputer](https://github.com/7h30th3r0n3/Evil-M5Core2)
+- [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder)
 - [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project)
 - [Bruce](https://github.com/pr3y/Bruce)
 - [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi)
@@ -92,6 +93,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Game Related
 - [TinyKnight Game](https://github.com/foopod/tinyKnight)
+- [Sun Rider Game](https://github.com/Treblewolf/M5Cardputer-Sun-Rider)
 - [Classic Snake Game](https://github.com/ostaquet/M5Snake/tree/master/src/M5Snake)
 - [Anarch Game port from ESPBoy](https://github.com/TheBricktop/Anarch-Cardputer)
 - [DOOM port](https://github.com/Logimancer/Cardputer-doom) - Yes, of course we have Doom
@@ -99,7 +101,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Gameboy emulator](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
 - [Conway's Game of Life](https://github.com/Mystereon/CardLife)
 - [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
-- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu)
+- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu) | [By Mr-Paul](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
+- [NES Emulator](https://github.com/geo-tp/Cardputer-Nes-Emulator)
 
 ### Misc.
 - [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
