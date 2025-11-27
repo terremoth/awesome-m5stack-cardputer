@@ -101,8 +101,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Gameboy emulator](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
 - [Conway's Game of Life](https://github.com/Mystereon/CardLife)
 - [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
-- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu) | [By Mr-Paul](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-)
-- [NES Emulator](https://github.com/geo-tp/Cardputer-Nes-Emulator)
+- [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu) | [By Mr-Paul](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-) | By geo-tp (see next on the list)
+- [Cardputer Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators) - Emulator for cardputer that supports eight different consoles
 - [Tamaputer Tamagotchi P1 Emulator](https://github.com/mindovermiles262/tamaputer)
 
 ### Misc.
@@ -110,14 +110,12 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio)
 - [M5Cardputer WebRadio Dutch version](https://github.com/rolandbreedveld/M5Cardputer_WebRadio_Dutch/)
 - [HID Bluetooth Keyboard](https://github.com/Gitshaoxiang/M5Cardputer-BLE-HID-Keyboard)
-- [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient)
+- [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient) | [By SUB0PT1MAL](https://github.com/aat440hz/SSHClient-M5Cardputer)
 - [Telnet Client](https://github.com/aat440hz/TelnetClient-M5Cardputer)
 - [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat)
 - [Volos Cardputer TV Remote](https://github.com/VolosR/M5CardRemote/)
 - [Universal remote control](https://github.com/geo-tp/Ultimate-Remote)
 - [MDX (mxdrv) file Player for Cardputer](https://github.com/Layer812/mdxPC)
-- [Interactive SSH client](https://github.com/SUB0PT1MAL/M5Cardputer_Interactive_SSH_Client)
-- [SSH Terminal with M5Cardputer](https://github.com/aat440hz/SSHClient-M5Cardputer)
 - [M5CardForth - Forth Programming Language for Cardputer](https://github.com/ryu10/M5CardForth)
 - [VGM Player for Cardputer](https://github.com/Layer812/vgmPC)
 - [M5Cardputer C64 Emulator](https://github.com/iele/M5Cardputer-C64-Emulator)
