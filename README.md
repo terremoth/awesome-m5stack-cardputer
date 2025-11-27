@@ -73,7 +73,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Launchers
 - [M5 Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
-  - [100+ prebuilt binaries](https://bmorcelli.github.io/Launcher/m5lurner.html)
+  - [240+ prebuilt binaries](https://bmorcelli.github.io/Launcher/m5lurner.html)
 - [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra)
   - [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps)
   - [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
