@@ -5,7 +5,7 @@
 <img src="m5stack cardputer.jpg" alt="m5stack cardputer" width="400">
 
 M5Stack Cardputer is a S3 Stamp cheap ($30) and complete mini computer in a credit-card size, weighing 92.8g.  
-[Official website](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3) | [Docs](https://docs.m5stack.com/en/core/Cardputer)
+[Official website](https://shop.m5stack.com/products/m5stack-cardputer-with-m5stamps3-v1-1) | [Docs](https://docs.m5stack.com/en/core/Cardputer)
 
 Cardputer Reddit Community: https://www.reddit.com/r/CardPuter  
 An Unofficial Cardputer Discord Server: https://discord.gg/zuzSVDgxvx  
@@ -73,7 +73,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 
 ### Launchers
 - [M5 Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
-  - [240+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
+  - [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   - [Laucher website](https://bmorcelli.github.io/Launcher/)
 - [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra)
   - [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps)
@@ -91,6 +91,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Bruce](https://github.com/pr3y/Bruce)
 - [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi)
 - [433Mhz sniffer](https://github.com/bmorcelli/io433)
+- [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
 
 ### Game Related
 - [TinyKnight Game](https://github.com/foopod/tinyKnight)
@@ -103,7 +104,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Conway's Game of Life](https://github.com/Mystereon/CardLife)
 - [Math Game](https://github.com/seanbutler/M5CardputerMathGame)
 - [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu) | [By Mr-Paul](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-) | By geo-tp (see next on the list)
-- [Cardputer Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators) - Emulator for cardputer that supports eight different consoles
+- [Cardputer Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators) - Emulator for cardputer that supports nine different consoles
 - [Tamaputer Tamagotchi P1 Emulator](https://github.com/mindovermiles262/tamaputer)
 
 ### Misc.
@@ -128,3 +129,5 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer)
 - [Simple StopWatch](https://github.com/qubiX00/stopwatch-cardputer)
 - [Weather App](https://github.com/qubiX00/weather-cardputer)
+- [MiniAcid](https://github.com/urtubia/miniacid)
+  - [Demo site](https://miniacid.mrbook.org)
