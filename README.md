@@ -108,6 +108,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Cardputer Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators) - Emulator for cardputer that supports ten different consoles
 - [Tamaputer Tamagotchi P1 Emulator](https://github.com/mindovermiles262/tamaputer)
 - [Cave-Mine](https://github.com/question-and-answer/cave-mine-cardputer-alpha1)
+- [Hotspot Arcade](https://github.com/genkigenki/hotspot-arcade-cardputer) - Several offline party games your guests play from their phones
 
 ### Misc.
 - [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo)
