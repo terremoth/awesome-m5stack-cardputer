@@ -82,7 +82,8 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher)
 - [HydraOS](https://github.com/WauHundeland/HydraOS) - Micro OS for Cardputer
 - [BerylliumOS](https://github.com/beryllium-org/OS) - Another Micro OS for Cardputer
-- [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) 
+- [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS)
+- [Saitama](https://github.com/868meshbot/Saitama/) - Fully offgrid meshcore messenger t-deck for Cardputer ADV
 - [NucleoOS](https://github.com/indecenti/NucleoOs) - Full OS for Cardputer and Cardputer ADV (one image): native launcher with 50+ apps and games, a web desktop served to your browser, an offline AI assistant and Game Boy / Game Gear emulators. Installs from the browser or M5Launcher
 
 ### Cybersecurity Related
