@@ -137,3 +137,5 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [MiniAcid](https://github.com/urtubia/miniacid)
   - [Demo site](https://miniacid.mrbook.org)
 - [PDAputer](https://github.com/nishad2m8/PDAputer)
+- [Catputer](https://github.com/m0rg0t/catputer) - Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room
+  - [Demo site](https://m0rg0t.github.io/catputer/)
