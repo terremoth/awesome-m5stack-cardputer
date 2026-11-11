@@ -95,6 +95,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [433Mhz sniffer](https://github.com/bmorcelli/io433)
 - [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP)
 - [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
+- [BadCard](https://github.com/VoidNoi/BadCard) - BadUSB for Cardputer with DuckyScript support and customizable payloads
 
 ### Game Related
 - [TinyKnight Game](https://github.com/foopod/tinyKnight)
