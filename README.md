@@ -140,7 +140,6 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [PDAputer](https://github.com/nishad2m8/PDAputer)
 - [Catputer](https://github.com/m0rg0t/catputer) - Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room
   - [Demo site](https://m0rg0t.github.io/catputer/)
-  
 - [Cardputer Code Space OS](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os) - Cardputer ADV remote desktop client for a real desktop Linux environment hosted on GitHub Codespaces. Uses an external 2.8" touch TFT for the desktop and the built-in screen for controls. Work in progress.
 - [Cardputer ADV + WeAct USB Display](https://github.com/XxYouDeaDPunKxX/cardputer-adv-weact-usb-display) - Arduino library, demo and ready-to-flash firmware for controlling a WeAct FS V1 USB-C 0.96" display, including rotation, brightness control and motion-reactive RGB565 animations.
 
