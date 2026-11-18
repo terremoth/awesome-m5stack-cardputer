@@ -33,7 +33,7 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 
 ### Devices/Resources
 
-- Bluetooth: 5.0, BLE + Mesh
+- Bluetooth: 5.0, BLE + Bluetooth Mesh
 - Wi-Fi: 802.11b/g/n 2.4Ghz
 - Display: ST7789V2 - IPS LCD, 1,14", 240px x 135px
 - Battery: internal 120mAh + 1400mAh (in the base) lithium battery
@@ -52,7 +52,7 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 - Product Weight: 90g
 
 
-**Note: no builtin NFC, RFID or LoRa module**
+**Note: no builtin NFC, RFID, Vibration, IMU, GNS, SubGhz or LoRa modules**
 
 ---
 
